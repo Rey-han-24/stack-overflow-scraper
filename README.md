@@ -49,18 +49,7 @@ The output Excel file will be saved to:
 
 E:\Programming data\Projects\Datascraping.xlsx (Add your on destination)
 
-Screenshots:
-### 1. Search Results Page
-![Search Results](screenshot![Capture](https://github.com/user-attachments/assets/8318edd7-38eb-4698-b1b2-1adcccadefb0)
-s/search_page.png)
 
-### 2. Excel Output File
-![Excel Output](screenshots/excel![Capture](https://github.com/user-attachments/assets/6d4ca1a3-587c-4c65-b3b5-e63c46d62e35)
-_output.png)
-
-### 3. Terminal Log
-![Terminal Output](screenshots/terminal![Capture](https://github.com/user-attachments/assets/7a1b1ea6-f28d-4928-8486-ea3d396fd2ac)
-al_log.png)
 
 🧠 Notes for Beginners
 This script simulates a real browser. Don’t run it too fast or too often to avoid being blocked.
